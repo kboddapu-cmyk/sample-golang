@@ -2,7 +2,7 @@
 
 This guide describes how to use DigitalOcean App Platform to run a sample Golang application.
 
-**Note**: Following these steps may result in charges for the use of DigitalOcean service
+**Note**: Following these steps may result in charges for the use of DigitalOcean services
 
 ### Requirements
 
